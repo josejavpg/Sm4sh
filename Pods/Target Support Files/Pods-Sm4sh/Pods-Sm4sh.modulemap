@@ -1,0 +1,6 @@
+framework module Pods_Sm4sh {
+  umbrella header "Pods-Sm4sh-umbrella.h"
+
+  export *
+  module * { export * }
+}
